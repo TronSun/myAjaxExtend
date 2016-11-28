@@ -1,0 +1,24 @@
+{
+	"ret": true,
+	"code": 63003,
+	"message": "获取成功",
+	"ver": 1,
+	"data": {
+		"couponAccount": [
+			{
+				"userId": 890129,
+				"couponType": "1",
+				"expiredNumber": 49,
+				"expiredAmount": 68.46,
+				"availableNumber": 13,
+				"availableAmount": 43.9,
+				"usedNumber": 3,
+				"usedAmount": 2.7,
+				"willExpireNumber": 0,
+				"willExpireAmount": 0,
+				"giveNumber": 8,
+				"giveAmount": 23.31
+			}
+		]
+	}
+}
